@@ -1,0 +1,9 @@
+import turtle
+shawn = turtle.Turtle()
+
+move = 0
+while move < 4:
+        shawn.forward(100)
+        shawn.left(120)
+	move = move + 1
+turtle.exitonclick  
