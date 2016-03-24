@@ -1,3 +1,4 @@
+
 class player(object):
 	def __init__(self, name, age, goals):
 		self.name = name
