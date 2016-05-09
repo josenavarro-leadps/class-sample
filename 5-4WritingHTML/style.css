@@ -1,0 +1,21 @@
+body {
+	background-color: #b7d1c4;
+}
+
+head {
+	font-family: Roboto;
+}
+
+* {
+	margin: auto;
+}
+
+div {
+	width: 700px;
+	position: relative;
+}
+
+img {
+
+	display: block;
+}
